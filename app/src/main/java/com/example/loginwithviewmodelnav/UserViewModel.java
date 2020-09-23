@@ -20,12 +20,10 @@ public class UserViewModel extends ViewModel {
     {
         return loginResultLiveData;
     }
-
     public void setLoginResultLiveData(String email, String password)
     {
         loginResultLiveData.setValue(LoginResult.getInstance().login(email,password));
     }
-
     public LiveData<User> getUser()
     {
         return mutableLiveData;
