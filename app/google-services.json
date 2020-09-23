@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484707283285",
+    "firebase_url": "https://loginwithviewmodelnav.firebaseio.com",
+    "project_id": "loginwithviewmodelnav",
+    "storage_bucket": "loginwithviewmodelnav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484707283285:android:6cfac1b7ff9e700c9cffdc",
+        "android_client_info": {
+          "package_name": "com.example.loginwithviewmodelnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484707283285-omgnqpfc82p9bh7g4o45llrse3funsjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginwithviewmodelnav",
+            "certificate_hash": "5af5aed1c9521cd5070a5c26bb632a94ef1b880f"
+          }
+        },
+        {
+          "client_id": "484707283285-009gg1tm24826jp1i8nb8rdcnqhe7lm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7ByP4_OZsX9pVEkHaiPpQuxuZ7CsWHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484707283285-009gg1tm24826jp1i8nb8rdcnqhe7lm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
